@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="background_main">#0D0D0D</color>
-    <color name="card_background">#141414</color>
-    <color name="text_primary">#FFFFFF</color>
-    <color name="text_secondary">#AAAAAA</color>
+    <!-- Backgrounds -->
+    <color name="bg_deep">#0A0A0F</color>
+    <color name="bg_panel">#0F0F18</color>
+    <color name="bg_card">#141420</color>
+    <color name="bg_card_pressed">#1C1C2E</color>
+    <color name="bg_input">#1A1A28</color>
+    <color name="bg_dialog">#13131E</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F0F0F8</color>
+    <color name="text_secondary">#A0A0C0</color>
+    <color name="text_muted">#5A5A7A</color>
+    <color name="text_dim">#3A3A55</color>
+
+    <!-- Accent — electric cyan/teal for that premium car feel -->
+    <color name="accent_primary">#00D4FF</color>
+    <color name="accent_secondary">#0099BB</color>
+    <color name="accent_glow">#1A3A44</color>
+
+    <!-- UI elements -->
+    <color name="divider">#1E1E30</color>
+    <color name="card_border">#1E1E32</color>
+    <color name="card_border_active">#00D4FF</color>
 </resources>
